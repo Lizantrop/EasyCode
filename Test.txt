@@ -1,1 +1,1 @@
-print("Hello,world!");
+print("eto version2.0");
